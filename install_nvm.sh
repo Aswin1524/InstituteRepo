@@ -1,0 +1,1 @@
+Couldn't find the requested file /v0.38.0/install.sh in nvm-sh/nvm.
